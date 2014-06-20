@@ -1,6 +1,8 @@
 README
 ======
 
+THIS IS WORK IN PROGRESS!
+
 Source code
 
 + $ svn co http://svn.apache.org/repos/asf/xmlgraphics/commons/trunk/ commons
