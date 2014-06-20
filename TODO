@@ -1,0 +1,16 @@
+
+Create completely empty github repository
+
+```` bash
+$ git init
+$ nano .gitignore
+$ git add .
+$ git commit -m 'initial commit'
+$ git remote add origin https://github.com/rmuller/xmlgraphics-mavenized.git
+$ git push origin master
+````
+
+TODO:
+- delete all *~ files and add to .gitignore
+- remove .svn and not used directories
+
