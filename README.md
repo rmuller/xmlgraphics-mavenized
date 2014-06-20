@@ -10,11 +10,12 @@ Source code
 + $ svn co http://svn.apache.org/repos/asf/xmlgraphics/fop/trunk fop
 
 Clean-up:
+````
  $ find . -type d -name '.svn' -exec rm -Rf {} \;
  $ find . -type f -name '.svnignore' -exec rm {} \;
  $ find -type f -not -name 'package.html' -not -name 'overview.html' -not -name '*.java' | xargs -i{} cp --parents {} ../resources
  $ find -type f -not -name 'package.html' -not -name 'overview.html' -not -name '*.java' -exec rm {} \;
-
+````
 
 Replaced dependency on Xalan and Xerces with default implementations provided by JRE
 
