@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io
+END
+URIResolverAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/URIResolverAdapter.java
+END
+TempResourceURIGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/TempResourceURIGenerator.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/Resource.java
+END
+ResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/ResourceResolver.java
+END
+TempResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/TempResourceResolver.java
+END
+XmlSourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/io/XmlSourceUtil.java
+END

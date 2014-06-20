@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1560225/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg
+END
+MetaRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/582434/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/MetaRecord.java
+END
+WMFRecordStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/606882/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFRecordStore.java
+END
+WMFUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/582434/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFUtilities.java
+END
+TextureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/498747/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/TextureFactory.java
+END
+GdiObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/GdiObject.java
+END
+RecordStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/501518/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/RecordStore.java
+END
+WMFPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFPainter.java
+END
+WMFTranscoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFTranscoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/291468/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/package.html
+END
+WMFHeaderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/577131/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFHeaderProperties.java
+END
+AbstractWMFPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1560225/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/AbstractWMFPainter.java
+END
+AbstractWMFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1076146/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/AbstractWMFReader.java
+END
+WMFFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/transcoder/wmf/tosvg/WMFFont.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt
+END
+JGVTComponentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/JGVTComponentListener.java
+END
+AbstractZoomInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/AbstractZoomInteractor.java
+END
+AbstractImageZoomInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/AbstractImageZoomInteractor.java
+END
+GVTTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/656370/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/GVTTreeRenderer.java
+END
+GVTTreeRendererAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/GVTTreeRendererAdapter.java
+END
+GVTTreeRendererEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/GVTTreeRendererEvent.java
+END
+Interactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/Interactor.java
+END
+InteractorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/InteractorAdapter.java
+END
+GVTTreeRendererListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/GVTTreeRendererListener.java
+END
+AbstractRotateInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/AbstractRotateInteractor.java
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/Overlay.java
+END
+TextSelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/666001/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/TextSelectionManager.java
+END
+JGVTComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/666001/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/JGVTComponent.java
+END
+AbstractResetTransformInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/AbstractResetTransformInteractor.java
+END
+AbstractPanInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/AbstractPanInteractor.java
+END
+JGVTComponentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/gvt/JGVTComponentAdapter.java
+END

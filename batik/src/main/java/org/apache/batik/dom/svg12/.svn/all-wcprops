@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/601207/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12
+END
+SVGOMSubImageRefElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMSubImageRefElement.java
+END
+SVGOMFlowSpanElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/495198/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowSpanElement.java
+END
+SVGGlobal.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGGlobal.java
+END
+XBLOMShadowTreeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMShadowTreeElement.java
+END
+SVGOMSubImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMSubImageElement.java
+END
+SVGOMWheelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMWheelEvent.java
+END
+SVGOMMultiImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMMultiImageElement.java
+END
+XBLEventSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/601207/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLEventSupport.java
+END
+XBLOMContentElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMContentElement.java
+END
+XBLOMImportElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMImportElement.java
+END
+XBLOMTemplateElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMTemplateElement.java
+END
+XBLOMElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMElement.java
+END
+SVG12OMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVG12OMDocument.java
+END
+SVGOMSolidColorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMSolidColorElement.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/Global.java
+END
+SVGOMFlowDivElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowDivElement.java
+END
+SVGOMFlowRegionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowRegionElement.java
+END
+SVGOMFlowRootElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowRootElement.java
+END
+SVGOMFlowParaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/496989/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowParaElement.java
+END
+XBLOMXBLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMXBLElement.java
+END
+SVGOMHandlerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMHandlerElement.java
+END
+XBLOMDefinitionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMDefinitionElement.java
+END
+SVGOMFlowLineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/495198/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowLineElement.java
+END
+XBLOMHandlerGroupElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMHandlerGroupElement.java
+END
+SVGOMFlowRegionBreakElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/495198/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowRegionBreakElement.java
+END
+SVG12DOMImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/578768/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVG12DOMImplementation.java
+END
+XBLOMShadowTreeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/XBLOMShadowTreeEvent.java
+END
+BindableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/BindableElement.java
+END
+SVGOMFlowRegionExcludeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/dom/svg12/SVGOMFlowRegionExcludeElement.java
+END

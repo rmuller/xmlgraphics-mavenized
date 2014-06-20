@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d
+END
+StrokingTextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/995366/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/StrokingTextHandler.java
+END
+GraphicsConfigurationWithoutTransparency.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1358252/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/GraphicsConfigurationWithoutTransparency.java
+END
+Dimension2DDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/Dimension2DDouble.java
+END
+AbstractGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/AbstractGraphics2D.java
+END
+TransformStackElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/TransformStackElement.java
+END
+Graphics2DImagePainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/Graphics2DImagePainter.java
+END
+AbstractGraphicsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1358252/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/AbstractGraphicsConfiguration.java
+END
+TransformType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/TransformType.java
+END
+GenericGraphicsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/GenericGraphicsDevice.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/390693/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/package.html
+END
+GraphicsConfigurationWithTransparency.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1358252/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/GraphicsConfigurationWithTransparency.java
+END
+CMYKColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/954487/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/CMYKColorSpace.java
+END
+TextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/995366/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/TextHandler.java
+END
+GraphicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/GraphicContext.java
+END
+DefaultGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/DefaultGraphics2D.java
+END

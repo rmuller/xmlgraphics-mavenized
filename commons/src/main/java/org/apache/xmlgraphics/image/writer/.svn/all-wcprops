@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer
+END
+ImageWriterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/ImageWriterUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/503234/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/package.html
+END
+ImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/ImageWriter.java
+END
+AbstractImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/AbstractImageWriter.java
+END
+ImageWriterParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1448479/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/ImageWriterParams.java
+END
+ResolutionUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1448479/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/ResolutionUnit.java
+END
+Endianness.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1413104/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/Endianness.java
+END
+ImageWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1384277/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/ImageWriterRegistry.java
+END
+MultiImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/writer/MultiImageWriter.java
+END

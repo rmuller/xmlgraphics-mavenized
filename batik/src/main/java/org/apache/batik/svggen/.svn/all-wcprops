@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen
+END
+ImageHandlerJPEGEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ImageHandlerJPEGEncoder.java
+END
+ErrorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ErrorConstants.java
+END
+SVGCustomPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGCustomPaint.java
+END
+SVGGraphics2DRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphics2DRuntimeException.java
+END
+SVGTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGTransform.java
+END
+DefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DefaultErrorHandler.java
+END
+SVGCustomBufferedImageOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGCustomBufferedImageOp.java
+END
+SVGRenderingHints.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGRenderingHints.java
+END
+SVGGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphics2D.java
+END
+SVGLinearGradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGLinearGradient.java
+END
+CachedImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/CachedImageHandler.java
+END
+AbstractSVGConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/AbstractSVGConverter.java
+END
+SVGTexturePaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGTexturePaint.java
+END
+DefaultCachedImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DefaultCachedImageHandler.java
+END
+SVGGraphics2DIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphics2DIOException.java
+END
+SVGEllipse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGEllipse.java
+END
+CachedImageHandlerJPEGEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/CachedImageHandlerJPEGEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/475209/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/package.html
+END
+SVGShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGShape.java
+END
+SVGAttributeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGAttributeMap.java
+END
+AbstractSVGFilterConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/AbstractSVGFilterConverter.java
+END
+SVGCompositeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGCompositeDescriptor.java
+END
+SVGComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGComposite.java
+END
+SVGRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGRectangle.java
+END
+ImageHandlerPNGEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ImageHandlerPNGEncoder.java
+END
+SVGFontDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGFontDescriptor.java
+END
+SVGFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1060577/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGFont.java
+END
+SVGStrokeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGStrokeDescriptor.java
+END
+DOMGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DOMGroupManager.java
+END
+SVGLookupOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGLookupOp.java
+END
+ImageCacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/498747/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ImageCacher.java
+END
+SVGBasicStroke.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGBasicStroke.java
+END
+SVGGraphicContextConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphicContextConverter.java
+END
+SimpleImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SimpleImageHandler.java
+END
+SVGPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGPaint.java
+END
+SVGRescaleOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGRescaleOp.java
+END
+SVGColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/511565/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGColor.java
+END
+SVGDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGDescriptor.java
+END
+DefaultStyleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/479559/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DefaultStyleHandler.java
+END
+SVGHintsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGHintsDescriptor.java
+END
+SVGClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGClip.java
+END
+ExtensionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ExtensionHandler.java
+END
+SVGGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGeneratorContext.java
+END
+CachedImageHandlerPNGEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/CachedImageHandlerPNGEncoder.java
+END
+SVGAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGAttribute.java
+END
+SVGIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGIDGenerator.java
+END
+DefaultImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DefaultImageHandler.java
+END
+ImageHandlerBase64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ImageHandlerBase64Encoder.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ErrorHandler.java
+END
+SVGConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGConverter.java
+END
+DOMTreeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/522302/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DOMTreeManager.java
+END
+SVGTransformDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGTransformDescriptor.java
+END
+SVGFilterConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGFilterConverter.java
+END
+AbstractImageHandlerEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/579230/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/AbstractImageHandlerEncoder.java
+END
+SVGSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGSyntax.java
+END
+SVGPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/504084/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGPolygon.java
+END
+NullOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/NullOp.java
+END
+SVGPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/504084/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGPath.java
+END
+SVGGraphicObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphicObjectConverter.java
+END
+CachedImageHandlerBase64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/CachedImageHandlerBase64Encoder.java
+END
+GenericImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/GenericImageHandler.java
+END
+SVGArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGArc.java
+END
+SVGAlphaComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/504084/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGAlphaComposite.java
+END
+SVGPaintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGPaintDescriptor.java
+END
+SwingSVGPrettyPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SwingSVGPrettyPrint.java
+END
+XmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/763473/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/XmlWriter.java
+END
+StyleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/StyleHandler.java
+END
+SVGGraphicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGGraphicContext.java
+END
+SVGBufferedImageOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/594379/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGBufferedImageOp.java
+END
+SVGFilterDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGFilterDescriptor.java
+END
+SVGClipDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGClipDescriptor.java
+END
+SVGLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGLine.java
+END
+SVGConvolveOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGConvolveOp.java
+END
+SVGCSSStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGCSSStyler.java
+END
+SVGCustomComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGCustomComposite.java
+END
+DefaultExtensionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/DefaultExtensionHandler.java
+END
+SVGStylingAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/SVGStylingAttributes.java
+END
+ImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/svggen/ImageHandler.java
+END

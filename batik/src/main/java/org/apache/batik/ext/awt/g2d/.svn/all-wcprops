@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d
+END
+GraphicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/479564/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/GraphicContext.java
+END
+AbstractGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/AbstractGraphics2D.java
+END
+DefaultGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/DefaultGraphics2D.java
+END
+TransformStackElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478249/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/TransformStackElement.java
+END
+TransformType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/504084/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/TransformType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475209/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/g2d/package.html
+END

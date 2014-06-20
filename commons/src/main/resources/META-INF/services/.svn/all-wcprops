@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1350450/xmlgraphics/commons/trunk/src/resources/META-INF/services
+END
+org.apache.xmlgraphics.image.loader.spi.ImageConverter
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/606580/xmlgraphics/commons/trunk/src/resources/META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImageConverter
+END
+org.apache.xmlgraphics.image.writer.ImageWriter
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1028385/xmlgraphics/commons/trunk/src/resources/META-INF/services/org.apache.xmlgraphics.image.writer.ImageWriter
+END
+javax.xml.transform.URIResolver
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/688507/xmlgraphics/commons/trunk/src/resources/META-INF/services/javax.xml.transform.URIResolver
+END
+org.apache.xmlgraphics.image.loader.spi.ImagePreloader
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/606580/xmlgraphics/commons/trunk/src/resources/META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImagePreloader
+END
+org.apache.xmlgraphics.image.loader.spi.ImageLoaderFactory
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1350450/xmlgraphics/commons/trunk/src/resources/META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImageLoaderFactory
+END

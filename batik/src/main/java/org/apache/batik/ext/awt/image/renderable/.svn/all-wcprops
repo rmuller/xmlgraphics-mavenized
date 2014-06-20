@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable
+END
+ClipRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ClipRable8Bit.java
+END
+FilterChainRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterChainRable8Bit.java
+END
+TileRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/TileRable8Bit.java
+END
+DeferRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/720261/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/DeferRable.java
+END
+FilterColorInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterColorInterpolation.java
+END
+FilterResRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterResRable8Bit.java
+END
+OffsetRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/OffsetRable.java
+END
+AffineRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/AffineRable.java
+END
+FloodRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FloodRable8Bit.java
+END
+FilterAlphaRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterAlphaRable.java
+END
+SpecularLightingRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/SpecularLightingRable8Bit.java
+END
+DisplacementMapRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/479564/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/DisplacementMapRable8Bit.java
+END
+MorphologyRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/MorphologyRable.java
+END
+GaussianBlurRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/GaussianBlurRable.java
+END
+CompositeRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/CompositeRable.java
+END
+DiffuseLightingRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/DiffuseLightingRable8Bit.java
+END
+ColorMatrixRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ColorMatrixRable.java
+END
+PadRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/PadRable.java
+END
+ComponentTransferRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ComponentTransferRable.java
+END
+TurbulenceRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/TurbulenceRable.java
+END
+RedRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/RedRable.java
+END
+FilterAsAlphaRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterAsAlphaRable.java
+END
+AffineRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/AffineRable8Bit.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/Filter.java
+END
+ConvolveMatrixRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ConvolveMatrixRable.java
+END
+GaussianBlurRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/GaussianBlurRable8Bit.java
+END
+MorphologyRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/MorphologyRable8Bit.java
+END
+ClipRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ClipRable.java
+END
+FilterChainRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterChainRable.java
+END
+CompositeRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/CompositeRable8Bit.java
+END
+ColorMatrixRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ColorMatrixRable8Bit.java
+END
+PadRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/PadRable8Bit.java
+END
+TileRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/TileRable.java
+END
+ComponentTransferRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ComponentTransferRable8Bit.java
+END
+TurbulenceRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/TurbulenceRable8Bit.java
+END
+FilterResRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FilterResRable.java
+END
+ProfileRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ProfileRable.java
+END
+AbstractRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/AbstractRable.java
+END
+FloodRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/FloodRable.java
+END
+SpecularLightingRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/SpecularLightingRable.java
+END
+DisplacementMapRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/DisplacementMapRable.java
+END
+ConvolveMatrixRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/478363/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/ConvolveMatrixRable8Bit.java
+END
+AbstractColorInterpolationRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/AbstractColorInterpolationRable.java
+END
+PaintRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/478363/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/PaintRable.java
+END
+DiffuseLightingRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/renderable/DiffuseLightingRable.java
+END

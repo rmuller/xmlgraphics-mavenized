@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1084212/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2
+END
+FontSizeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontSizeManager.java
+END
+OverflowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/OverflowManager.java
+END
+FontStretchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontStretchManager.java
+END
+DisplayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/DisplayManager.java
+END
+FontFamilyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1084212/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontFamilyManager.java
+END
+FontSizeAdjustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontSizeAdjustManager.java
+END
+CursorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/CursorManager.java
+END
+UnicodeBidiManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/UnicodeBidiManager.java
+END
+FontWeightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontWeightManager.java
+END
+DirectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/DirectionManager.java
+END
+FontShorthandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontShorthandManager.java
+END
+VisibilityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/VisibilityManager.java
+END
+SrcManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/SrcManager.java
+END
+FontStyleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontStyleManager.java
+END
+ClipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/ClipManager.java
+END
+FontVariantManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/FontVariantManager.java
+END
+TextDecorationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/css2/TextDecorationManager.java
+END

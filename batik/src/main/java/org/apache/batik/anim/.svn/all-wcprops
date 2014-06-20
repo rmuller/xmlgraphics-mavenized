@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1585547/xmlgraphics/batik/trunk/sources/org/apache/batik/anim
+END
+AbstractAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/AbstractAnimation.java
+END
+AnimationEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/711768/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/AnimationEngine.java
+END
+MotionAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/575201/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/MotionAnimation.java
+END
+SimpleAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/492528/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/SimpleAnimation.java
+END
+SetAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/SetAnimation.java
+END
+TransformAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/492528/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/TransformAnimation.java
+END
+AnimationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475954/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/AnimationException.java
+END
+ColorAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/ColorAnimation.java
+END
+InterpolatingAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/anim/InterpolatingAnimation.java
+END

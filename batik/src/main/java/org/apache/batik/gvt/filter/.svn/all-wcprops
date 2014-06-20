@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter
+END
+filterDesc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/filterDesc.txt
+END
+GraphicsNodeRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/GraphicsNodeRable8Bit.java
+END
+GraphicsNodeRableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/GraphicsNodeRableFactory.java
+END
+ConcreteGraphicsNodeRableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/ConcreteGraphicsNodeRableFactory.java
+END
+GraphicsNodeRed8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/713578/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/GraphicsNodeRed8Bit.java
+END
+MaskRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/MaskRable8Bit.java
+END
+Mask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/478188/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/Mask.java
+END
+BackgroundRable8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/BackgroundRable8Bit.java
+END
+GraphicsNodeRable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/GraphicsNodeRable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475209/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/filter/package.html
+END

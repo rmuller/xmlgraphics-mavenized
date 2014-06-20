@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser
+END
+JAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/JAuthenticator.java
+END
+HistoryBrowserInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/HistoryBrowserInterface.java
+END
+ElementOverlayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/ElementOverlayManager.java
+END
+NodePickerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/NodePickerController.java
+END
+OptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/592619/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/OptionPanel.java
+END
+XMLPreferenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/662304/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/XMLPreferenceManager.java
+END
+WindowsAltFileSystemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/479616/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/WindowsAltFileSystemView.java
+END
+PNGOptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/907280/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/PNGOptionPanel.java
+END
+TransformHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/TransformHistory.java
+END
+JPEGOptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/JPEGOptionPanel.java
+END
+ElementOverlayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/ElementOverlayController.java
+END
+DOMViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/599691/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/DOMViewer.java
+END
+DOMDocumentTreeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/594367/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/DOMDocumentTreeController.java
+END
+ThumbnailDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/ThumbnailDialog.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/498290/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/Application.java
+END
+NodeTemplates.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/NodeTemplates.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/592619/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/StatusBar.java
+END
+SVGOptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/SVGOptionPanel.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/592619/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/Resources.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/662008/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/Main.java
+END
+UndoableCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/UndoableCommand.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/496989/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/AboutDialog.java
+END
+DOMDocumentTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/594734/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/DOMDocumentTree.java
+END
+SquiggleInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/SquiggleInputHandler.java
+END
+PreferenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/PreferenceDialog.java
+END
+ResourceOrigin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/ResourceOrigin.java
+END
+DropDownHistoryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/DropDownHistoryModel.java
+END
+FindDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/FindDialog.java
+END
+NodePickerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/599691/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/NodePickerPanel.java
+END
+SquiggleInputHandlerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/SquiggleInputHandlerFilter.java
+END
+DOMViewerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/DOMViewerController.java
+END
+HistoryBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/594379/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/HistoryBrowser.java
+END
+JSVGViewerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/JSVGViewerFrame.java
+END
+AbstractCompoundCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/AbstractCompoundCommand.java
+END
+LocalHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/LocalHistory.java
+END
+AbstractUndoableCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/AbstractUndoableCommand.java
+END
+SVGInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/SVGInputHandler.java
+END
+XMLInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/apps/svgbrowser/XMLInputHandler.java
+END

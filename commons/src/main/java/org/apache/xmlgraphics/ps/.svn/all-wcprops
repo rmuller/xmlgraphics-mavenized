@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps
+END
+PSGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSGenerator.java
+END
+ImageEncodingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/ImageEncodingHelper.java
+END
+PSFontUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1345759/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSFontUtils.java
+END
+PSResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSResource.java
+END
+PSDictionaryFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSDictionaryFormatException.java
+END
+PSProcSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1513682/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSProcSets.java
+END
+PSImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1557632/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSImageUtils.java
+END
+DSCConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/DSCConstants.java
+END
+PSDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSDictionary.java
+END
+FormGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/FormGenerator.java
+END
+ImageFormGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/ImageFormGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/426584/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/package.html
+END
+PSCommandMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/924840/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSCommandMap.java
+END
+PSProcSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSProcSet.java
+END
+ImageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/ImageEncoder.java
+END
+PSState.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1051421/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSState.java
+END
+PSPageDeviceDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/PSPageDeviceDictionary.java
+END

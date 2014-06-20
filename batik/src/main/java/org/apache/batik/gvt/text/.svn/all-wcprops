@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text
+END
+AttributedCharacterSpanIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/AttributedCharacterSpanIterator.java
+END
+GlyphLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/GlyphLayout.java
+END
+TextPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/TextPath.java
+END
+ArabicTextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/491229/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/ArabicTextHandler.java
+END
+TextSpanLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/TextSpanLayout.java
+END
+BidiAttributedCharacterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/522271/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/BidiAttributedCharacterIterator.java
+END
+ConcreteTextSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/769733/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/ConcreteTextSelector.java
+END
+TextHit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/TextHit.java
+END
+Mark.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/478188/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/Mark.java
+END
+TextLayoutFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/TextLayoutFactory.java
+END
+TextPaintInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/TextPaintInfo.java
+END
+ConcreteTextLayoutFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/ConcreteTextLayoutFactory.java
+END
+GVTACIImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/GVTACIImpl.java
+END
+GVTAttributedCharacterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/text/GVTAttributedCharacterIterator.java
+END

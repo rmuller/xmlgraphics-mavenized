@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1365074/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/util/uri
+END
+CommonURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/util/uri/CommonURIResolver.java
+END
+DataURLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/util/uri/DataURLUtil.java
+END
+DataURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1365074/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/util/uri/DataURIResolver.java
+END

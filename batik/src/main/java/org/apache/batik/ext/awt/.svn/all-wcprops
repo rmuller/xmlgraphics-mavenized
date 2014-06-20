@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1562797/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt
+END
+LinearGradientPaintContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/LinearGradientPaintContext.java
+END
+MultipleGradientPaintContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/501922/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/MultipleGradientPaintContext.java
+END
+RadialGradientPaintContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/516969/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/RadialGradientPaintContext.java
+END
+RenderingHintsKeyExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/RenderingHintsKeyExt.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/package.html
+END
+BufferedImageHintKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/BufferedImageHintKey.java
+END
+LinearGradientPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/LinearGradientPaint.java
+END
+AvoidTilingHintKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/AvoidTilingHintKey.java
+END
+MultipleGradientPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/479573/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/MultipleGradientPaint.java
+END
+RadialGradientPaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/479573/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/RadialGradientPaint.java
+END
+ColorSpaceHintKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/ColorSpaceHintKey.java
+END
+AreaOfInterestHintKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/AreaOfInterestHintKey.java
+END
+TranscodingHintKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/TranscodingHintKey.java
+END

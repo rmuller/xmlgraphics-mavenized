@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1562797/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg
+END
+LinkActivationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/LinkActivationEvent.java
+END
+SVGUserAgentGUIAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGUserAgentGUIAdapter.java
+END
+SVGDocumentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGDocumentLoader.java
+END
+LinkActivationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/LinkActivationListener.java
+END
+SVGDocumentLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGDocumentLoaderAdapter.java
+END
+GVTTreeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/GVTTreeBuilder.java
+END
+SVGDocumentLoaderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGDocumentLoaderEvent.java
+END
+GVTTreeBuilderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/GVTTreeBuilderAdapter.java
+END
+GVTTreeBuilderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/GVTTreeBuilderEvent.java
+END
+SVGDocumentLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGDocumentLoaderListener.java
+END
+JSVGComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1562797/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/JSVGComponent.java
+END
+GVTTreeBuilderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/GVTTreeBuilderListener.java
+END
+SVGUpdateOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGUpdateOverlay.java
+END
+SVGFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGFileFilter.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/Messages.java
+END
+SVGLoadEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGLoadEventDispatcher.java
+END
+SVGLoadEventDispatcherAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGLoadEventDispatcherAdapter.java
+END
+SVGLoadEventDispatcherEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGLoadEventDispatcherEvent.java
+END
+SVGUserAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGUserAgent.java
+END
+SVGUserAgentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/478176/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGUserAgentAdapter.java
+END
+SVGLoadEventDispatcherListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/swing/svg/SVGLoadEventDispatcherListener.java
+END

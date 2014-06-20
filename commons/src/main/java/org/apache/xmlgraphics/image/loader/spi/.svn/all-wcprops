@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/924666/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/ImageLoader.java
+END
+ImageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1400596/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/ImageConverter.java
+END
+ImageImplRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/606580/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/package.html
+END
+ImagePreloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/750116/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/ImagePreloader.java
+END
+ImageLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/924666/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/loader/spi/ImageLoaderFactory.java
+END

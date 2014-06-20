@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/602579/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac
+END
+CSSAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/501844/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSAttributeCondition.java
+END
+CSSPseudoElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSPseudoElementSelector.java
+END
+CSSClassCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/602579/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSClassCondition.java
+END
+CSSConditionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSConditionFactory.java
+END
+AbstractCombinatorCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/AbstractCombinatorCondition.java
+END
+AbstractDescendantSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/AbstractDescendantSelector.java
+END
+CSSChildSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSChildSelector.java
+END
+AbstractAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/501844/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/AbstractAttributeCondition.java
+END
+ExtendedSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/ExtendedSelector.java
+END
+CSSLangCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/574507/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSLangCondition.java
+END
+CSSElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSElementSelector.java
+END
+CSSBeginHyphenAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSBeginHyphenAttributeCondition.java
+END
+CSSPseudoClassCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/501844/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSPseudoClassCondition.java
+END
+ExtendedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/ExtendedCondition.java
+END
+CSSOneOfAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSOneOfAttributeCondition.java
+END
+AbstractSiblingSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/AbstractSiblingSelector.java
+END
+CSSIdCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSIdCondition.java
+END
+CSSConditionalSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSConditionalSelector.java
+END
+AbstractElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/AbstractElementSelector.java
+END
+CSSDirectAdjacentSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSDirectAdjacentSelector.java
+END
+CSSSelectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSSelectorFactory.java
+END
+CSSDescendantSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSDescendantSelector.java
+END
+CSSAndCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/sac/CSSAndCondition.java
+END

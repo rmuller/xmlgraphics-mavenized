@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1562797/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer
+END
+ConcreteImageRendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/713578/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/ConcreteImageRendererFactory.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/Renderer.java
+END
+MacRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/MacRenderer.java
+END
+StrokingTextPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1562797/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/StrokingTextPainter.java
+END
+BasicTextPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/BasicTextPainter.java
+END
+ImageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/504760/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/ImageRenderer.java
+END
+ConcreteTextPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/ConcreteTextPainter.java
+END
+DynamicRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/DynamicRenderer.java
+END
+RendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/RendererFactory.java
+END
+StaticRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/StaticRenderer.java
+END
+ImageRendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/gvt/renderer/ImageRendererFactory.java
+END

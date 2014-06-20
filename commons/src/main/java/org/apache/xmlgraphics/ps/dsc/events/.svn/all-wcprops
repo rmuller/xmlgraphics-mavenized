@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events
+END
+DSCCommentBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentBoundingBox.java
+END
+DSCCommentDocumentNeededResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentDocumentNeededResources.java
+END
+DSCComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCComment.java
+END
+DSCCommentDocumentSuppliedResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentDocumentSuppliedResources.java
+END
+PostScriptComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/PostScriptComment.java
+END
+DSCCommentTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/727407/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentTitle.java
+END
+UnparsedDSCComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/UnparsedDSCComment.java
+END
+DSCCommentBeginDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/727407/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentBeginDocument.java
+END
+DSCHeaderComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCHeaderComment.java
+END
+AbstractEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/AbstractEvent.java
+END
+DSCCommentEndOfFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentEndOfFile.java
+END
+DSCCommentIncludeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/727407/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentIncludeResource.java
+END
+DSCCommentBeginResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/734420/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentBeginResource.java
+END
+DSCEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCEvent.java
+END
+AbstractResourcesDSCComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/734420/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/AbstractResourcesDSCComment.java
+END
+DSCCommentPages.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentPages.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/512838/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/package.html
+END
+AbstractDSCComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/AbstractDSCComment.java
+END
+PostScriptLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/PostScriptLine.java
+END
+DSCCommentPageHiResBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageHiResBoundingBox.java
+END
+DSCCommentPageResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageResources.java
+END
+DSCAtend.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCAtend.java
+END
+DSCCommentHiResBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentHiResBoundingBox.java
+END
+DSCCommentPageBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageBoundingBox.java
+END
+AbstractResourceDSCComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/727407/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/AbstractResourceDSCComment.java
+END
+DSCCommentLanguageLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentLanguageLevel.java
+END
+DSCCommentPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentPage.java
+END
+DSCCommentEndComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/ps/dsc/events/DSCCommentEndComments.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/892977/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge
+END
+PropertyMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/PropertyMerger.java
+END
+ArrayAddPropertyMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/892977/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/ArrayAddPropertyMerger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/426584/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/package.html
+END
+NoReplacePropertyMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/426584/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/NoReplacePropertyMerger.java
+END
+ReplacePropertyMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/426584/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/ReplacePropertyMerger.java
+END
+MergeRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/750418/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/xmp/merge/MergeRuleSet.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff
+END
+TIFFImageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFImageDecoder.java
+END
+ImageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/ImageType.java
+END
+TIFFEncodeParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFEncodeParam.java
+END
+ExtraSamplesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1448479/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/ExtraSamplesType.java
+END
+TIFFImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFImage.java
+END
+TIFFImageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder.java
+END
+TIFFLZWDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFLZWDecoder.java
+END
+TIFFField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFField.java
+END
+TIFFDecodeParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1598621/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFDecodeParam.java
+END
+TIFFDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFDirectory.java
+END
+TIFFFaxDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/TIFFFaxDecoder.java
+END
+CompressionValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/CompressionValue.java
+END
+ImageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1391005/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/ImageInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/503234/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/codec/tiff/package.html
+END

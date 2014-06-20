@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered
+END
+CachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/CachableRed.java
+END
+AbstractRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/AbstractRed.java
+END
+Any2LsRGBRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/Any2LsRGBRed.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/503234/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/package.html
+END
+Any2sRGBRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/Any2sRGBRed.java
+END
+BufferedImageCachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/BufferedImageCachableRed.java
+END
+FormatRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/FormatRed.java
+END
+RenderedImageCachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/image/rendered/RenderedImageCachableRed.java
+END

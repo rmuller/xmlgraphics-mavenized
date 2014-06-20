@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps
+END
+AbstractPSDocumentGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/AbstractPSDocumentGraphics2D.java
+END
+EPSDocumentGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/954770/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/EPSDocumentGraphics2D.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/426584/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/package.html
+END
+PSTextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/995366/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/PSTextHandler.java
+END
+PSTilingPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1576437/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/PSTilingPattern.java
+END
+PSDocumentGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1345683/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/PSDocumentGraphics2D.java
+END
+PSGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1533516/xmlgraphics/commons/trunk/src/java/org/apache/xmlgraphics/java2d/ps/PSGraphics2D.java
+END

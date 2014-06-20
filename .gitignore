@@ -1,0 +1,9 @@
+/batik/target/
+/batik/nb-configuration.xml
+/commons/target/
+/commons/nb-configuration.xml
+/fop/target/
+/fop/nb-configuration.xml
+.settings/
+.classpath
+.project

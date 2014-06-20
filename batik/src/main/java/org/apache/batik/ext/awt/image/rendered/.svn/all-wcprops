@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered
+END
+TurbulencePatternRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TurbulencePatternRed.java
+END
+DisplacementMapRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/DisplacementMapRed.java
+END
+TileGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileGenerator.java
+END
+DiffuseLightingRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/DiffuseLightingRed.java
+END
+TileLRUMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileLRUMember.java
+END
+GaussianBlurRed8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/GaussianBlurRed8Bit.java
+END
+Any2LumRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/Any2LumRed.java
+END
+FormatRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/478363/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/FormatRed.java
+END
+FilterAlphaRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/FilterAlphaRed.java
+END
+TranslateRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/478363/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TranslateRed.java
+END
+TileRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/509851/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileRed.java
+END
+CompositeRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/CompositeRed.java
+END
+ColorMatrixRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/479564/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/ColorMatrixRed.java
+END
+Any2LsRGBRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/Any2LsRGBRed.java
+END
+AbstractRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/AbstractRed.java
+END
+PadRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/PadRed.java
+END
+SpecularLightingRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/SpecularLightingRed.java
+END
+BumpMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/BumpMap.java
+END
+ComponentTransferRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/479564/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/ComponentTransferRed.java
+END
+TileGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileGrid.java
+END
+TileBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileBlock.java
+END
+TileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileStore.java
+END
+IndexImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/IndexImage.java
+END
+FilterAsAlphaRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/FilterAsAlphaRed.java
+END
+TileCacheRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/491223/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileCacheRed.java
+END
+CachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/CachableRed.java
+END
+MultiplyAlphaRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/MultiplyAlphaRed.java
+END
+AbstractTiledRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/AbstractTiledRed.java
+END
+TileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileCache.java
+END
+Any2sRGBRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/537934/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/Any2sRGBRed.java
+END
+AffineRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/AffineRed.java
+END
+BufferedImageCachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/BufferedImageCachableRed.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/LRUCache.java
+END
+RenderedImageCachableRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/478363/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/RenderedImageCachableRed.java
+END
+TileMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/TileMap.java
+END
+ProfileRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/504084/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/ProfileRed.java
+END
+FloodRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/FloodRed.java
+END
+MorphologyOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/rendered/MorphologyOp.java
+END

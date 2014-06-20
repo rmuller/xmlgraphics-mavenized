@@ -1,0 +1,9 @@
+NOTES
+=====
+
++ FOP now uses JDK 5, upgrade to 6?
++ Mavenize?
++ QDox within antrun / maven NPE:
+
++ EventModel via XML, why not generate the source code?
++ AnnotationProcessor!

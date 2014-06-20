@@ -1,0 +1,249 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.apache.xmlgraphics</groupId>
+    <artifactId>fop</artifactId>
+    <packaging>jar</packaging>
+    <version>1.2-SNAPSHOT</version>
+    <name>Apache FOP ${project.version}</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <repositories>
+        <!-- The repository is frozen but will remain accessible until at least 1 September 2014. -->
+        <repository>
+            <id>com.springsource.repository.bundles.external</id>
+            <name>SpringSource Enterprise Bundle Repository - External Bundle Releases</name>
+            <url>http://repository.springsource.com/maven/bundles/external</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>xmlgraphics-commons</artifactId>
+            <version>1.6-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-all</artifactId>
+            <version>1.8-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>avalon-framework</groupId>
+            <artifactId>avalon-framework-api</artifactId>
+            <version>4.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>avalon-framework</groupId>
+            <artifactId>avalon-framework-impl</artifactId>
+            <version>4.2.0</version>
+        </dependency> 
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>fontbox</artifactId>
+            <version>1.8.5</version>
+        </dependency>
+        <!-- org.apache.fop.servlet -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- org.apache.fop.tools.anttasks, use same ant version as in runant -->
+        <dependency>
+            <groupId>org.apache.ant</groupId>
+            <artifactId>ant</artifactId>
+            <version>1.8.2</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- only for org.apache.fop.util.bitmap.JAIMonochromeBitmapConverter-->
+        <dependency>
+            <groupId>javax.media.jai</groupId>
+            <artifactId>com.springsource.javax.media.jai.core</artifactId>
+            <version>1.1.3</version>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <fork>true</fork>
+                    <compilerArgument>-XDignore.symbol.file</compilerArgument>
+                    <source>1.6</source>
+                    <target>1.6</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>xml-maven-plugin</artifactId>
+                <version>1.0</version>
+                <!-- http://plexus.codehaus.org/plexus-components/plexus-io/filemappers.html -->
+                <executions>
+                    <execution>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>transform</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <transformationSets>
+                        <transformationSet>
+                            <dir>src/main/resources/fonts</dir>
+                            <includes>
+                                <include>encodings.xml</include>
+                            </includes>
+                            <stylesheet>src/main/resources/fonts/code-point-mapping.xsl</stylesheet>
+                            <outputDir>${project.build.directory}/generated-sources/xslt/org/apache/fop/fonts</outputDir>
+                            <fileMappers>
+                                <fileMapper implementation="org.codehaus.plexus.components.io.filemappers.MergeFileMapper">
+                                    <targetName>CodePointMapping.java</targetName>
+                                </fileMapper>
+                            </fileMappers>
+                        </transformationSet>
+                        <transformationSet>
+                            <dir>src/main/resources/fonts</dir>
+                            <includes>
+                                <include>Courier*.xml</include>
+                                <include>Helvetica*.xml</include>
+                                <include>Times*.xml</include>
+                            </includes>
+                            <stylesheet>src/main/resources/fonts/font-file.xsl</stylesheet>
+                            <parameters>
+                                <parameter>
+                                    <name>encoding</name>
+                                    <value>WinAnsiEncoding</value>
+                                </parameter>
+                            </parameters>
+                            <outputDir>${project.build.directory}/generated-sources/xslt/org/apache/fop/fonts/base14</outputDir>
+                            <fileMappers>
+                                <fileMapper implementation="org.codehaus.plexus.components.io.filemappers.FileExtensionMapper">
+                                    <targetExtension>.java</targetExtension>
+                                </fileMapper>
+                            </fileMappers>
+                        </transformationSet>
+                        <transformationSet>
+                            <dir>src/main/resources/fonts</dir>
+                            <includes>
+                                <include>Symbol.xml</include>
+                                <include>ZapfDingbats.xml</include>
+                            </includes>
+                            <stylesheet>src/main/resources/fonts/font-file.xsl</stylesheet>
+                            <outputDir>${project.build.directory}/generated-sources/xslt/org/apache/fop/fonts/base14</outputDir>
+                            <fileMappers>
+                                <fileMapper implementation="org.codehaus.plexus.components.io.filemappers.FileExtensionMapper">
+                                    <targetExtension>.java</targetExtension>
+                                </fileMapper>
+                            </fileMappers>
+                        </transformationSet>
+                    </transformationSets>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>build-helper-maven-plugin</artifactId>
+                <version>1.8</version>
+                <executions>
+                    <execution>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>add-source</goal>
+                        </goals>
+                        <configuration>
+                            <sources>
+                                <source>${project.build.directory}/generated-sources/xslt</source>
+<!--                                <source>${project.build.directory}/generated-sources/event</source>-->
+                            </sources>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <artifactId>maven-antrun-plugin</artifactId>
+                <!-- 1.5, 1.6 -> ant 1.8.1; 1.7 -> ant 1.8.2 -->
+                <version>1.7</version>
+                <executions>
+                    <execution>
+                        <id>default-cli</id>
+                        <phase>process-classes</phase>
+                        <configuration>
+                            <target name="codegen">
+                                <echo message="ANT  version  : ${ant.version}" />
+                                <echo message="Java version  : ${java.version}" />
+                                <mkdir dir="${project.build.directory}/codegen-classes"/>
+                                <mkdir dir="${project.build.directory}/generated-sources/event"/>
+                                <javac destdir="${project.build.directory}/codegen-classes"
+                                       debug="true" includeantruntime="false">
+                                    <src path="src/codegen/java"/>
+                                    <patternset includes="**/*.java"/>
+                                    <classpath>
+                                        <!--- for org.apache.commons:commons-io -->
+                                        <path refid="maven.compile.classpath"/>
+                                        <path refid="maven.plugin.classpath"/>
+                                        <pathelement location="${project.build.directory}/classes"/>
+                                    </classpath>
+                                </javac>
+                                <taskdef name="eventResourceGenerator" classname="org.apache.fop.tools.EventProducerCollectorTask">
+                                    <classpath>
+                                        <path refid="maven.plugin.classpath"/>
+                                        <path refid="maven.compile.classpath"/>
+                                        <pathelement location="${project.build.directory}/codegen-classes"/>
+                                    </classpath>
+                                </taskdef>
+                                <eventResourceGenerator destdir="${project.build.directory}/classes">
+                                    <fileset dir="src/main/java">
+                                        <include name="**/*.java"/>
+                                    </fileset>
+                                </eventResourceGenerator>
+                            </target>
+                        </configuration>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <dependencies>
+                    <!-- http://docs.codehaus.org/display/MAVENUSER/Running+ant+tasks+that+use+the+JDK -->
+                    <dependency>
+                        <groupId>com.sun</groupId>
+                        <artifactId>tools</artifactId>
+                        <version>${java.version}</version>
+                        <scope>system</scope>
+                        <systemPath>${java.home}/../lib/tools.jar</systemPath>
+                    </dependency>
+                    <dependency>
+                        <groupId>com.thoughtworks.qdox</groupId>
+                        <artifactId>qdox</artifactId>
+                        <version>1.12.1</version>
+                        <exclusions>
+                            <!-- uses old ant version 1.5.1, if not excluded error will occur:
+                            NoSuchMethodError: o.a.t.a.util.FileUtils.getFileUtils() -->
+                            <exclusion>
+                                <groupId>ant</groupId>
+                                <artifactId>ant</artifactId>
+                            </exclusion>
+                        </exclusions>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

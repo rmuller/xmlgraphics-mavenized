@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1378739/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi
+END
+ImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/ImageWriter.java
+END
+ImageWriterParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1068104/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/ImageWriterParams.java
+END
+JDKRegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/501094/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/JDKRegistryEntry.java
+END
+MagicNumberRegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1070135/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/MagicNumberRegistryEntry.java
+END
+ErrorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/ErrorConstants.java
+END
+StreamRegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/StreamRegistryEntry.java
+END
+ImageTagRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/478276/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/ImageTagRegistry.java
+END
+ImageWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1378739/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/ImageWriterRegistry.java
+END
+BrokenLinkProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/BrokenLinkProvider.java
+END
+RegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/RegistryEntry.java
+END
+URLRegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/498740/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/URLRegistryEntry.java
+END
+AbstractRegistryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/501094/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/AbstractRegistryEntry.java
+END
+DefaultBrokenLinkProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/501094/xmlgraphics/batik/trunk/sources/org/apache/batik/ext/awt/image/spi/DefaultBrokenLinkProvider.java
+END

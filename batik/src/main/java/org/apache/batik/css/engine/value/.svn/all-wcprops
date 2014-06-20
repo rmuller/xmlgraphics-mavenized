@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1084212/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value
+END
+ShorthandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/ShorthandManager.java
+END
+RectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/RectManager.java
+END
+AbstractValueFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/578680/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/AbstractValueFactory.java
+END
+RectValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/RectValue.java
+END
+AbstractValueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/AbstractValueManager.java
+END
+URIValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/URIValue.java
+END
+AbstractColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/AbstractColorManager.java
+END
+InheritValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/InheritValue.java
+END
+AbstractValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/AbstractValue.java
+END
+FloatValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/FloatValue.java
+END
+StringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/StringValue.java
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/StringMap.java
+END
+RGBColorValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/RGBColorValue.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/478160/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/Messages.java
+END
+ValueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/ValueManager.java
+END
+ListValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/476924/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/ListValue.java
+END
+ValueConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/ValueConstants.java
+END
+LengthManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/480490/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/LengthManager.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/Value.java
+END
+ComputedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/ComputedValue.java
+END
+IdentifierManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/engine/value/IdentifierManager.java
+END

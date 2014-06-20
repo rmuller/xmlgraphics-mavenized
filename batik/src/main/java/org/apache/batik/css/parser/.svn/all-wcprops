@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/660763/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser
+END
+DefaultDirectAdjacentSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultDirectAdjacentSelector.java
+END
+ExtendedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/ExtendedParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/package.html
+END
+ExtendedParserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/ExtendedParserWrapper.java
+END
+DefaultPseudoElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultPseudoElementSelector.java
+END
+DefaultAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultAttributeCondition.java
+END
+DefaultDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultDocumentHandler.java
+END
+CSSSelectorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/CSSSelectorList.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/ParseException.java
+END
+CSSLexicalUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/CSSLexicalUnit.java
+END
+DefaultLangCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultLangCondition.java
+END
+AbstractAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/AbstractAttributeCondition.java
+END
+DefaultBeginHyphenAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultBeginHyphenAttributeCondition.java
+END
+LexicalUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/LexicalUnits.java
+END
+DefaultOneOfAttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultOneOfAttributeCondition.java
+END
+DefaultIdCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultIdCondition.java
+END
+DefaultConditionalSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultConditionalSelector.java
+END
+CSSSACMediaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/CSSSACMediaList.java
+END
+AbstractSiblingSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/AbstractSiblingSelector.java
+END
+DefaultSelectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultSelectorFactory.java
+END
+DefaultDescendantSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultDescendantSelector.java
+END
+DefaultAndCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultAndCondition.java
+END
+AbstractElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/AbstractElementSelector.java
+END
+DefaultClassCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultClassCondition.java
+END
+DefaultConditionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultConditionFactory.java
+END
+ScannerUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/ScannerUtilities.java
+END
+AbstractCombinatorCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/AbstractCombinatorCondition.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/Scanner.java
+END
+DefaultChildSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/501495/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultChildSelector.java
+END
+DefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/478283/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultErrorHandler.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/660763/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/Parser.java
+END
+AbstractDescendantSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/AbstractDescendantSelector.java
+END
+DefaultElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultElementSelector.java
+END
+DefaultPseudoClassCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/sources/org/apache/batik/css/parser/DefaultPseudoClassCondition.java
+END
